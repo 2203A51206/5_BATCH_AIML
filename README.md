@@ -7,3 +7,4 @@
 #[Assignment 2]https://github.com/2203A51206/5_BATCH_AIML/blob/main/Lab02_AIML.ipynb#
 #[assignment 3]https://github.com/2203A51206/5_BATCH_AIML/blob/main/assignment%203.ipynb#
 #[assignment 6]https://github.com/2203A51206/5_BATCH_AIML/blob/main/Assignment_06.ipynb#
+#[assignment 1]https://github.com/2203A51206/5_BATCH_AIML/blob/main/Assignment_06.ipynb#
